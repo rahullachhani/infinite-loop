@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Consumer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="welcome_text">Welcome to Barclays OneTouch</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="title_activity_login">Sign In</string>
+
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <array name="array_products">
+        <item>@drawable/iphone6</item>
+        <item>@drawable/iphone6</item>
+        <item>@drawable/iphone6</item>
+        <item>@drawable/iphone6</item>
+        <item>@drawable/iphone6</item>
+    </array>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/transaction_fragment">
+    <!--
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/colorBackground"
+        android:entries=""
+        android:dividerHeight="1dp"/> -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="1.Sameer - Paypal - 3000"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="2.Sameer - PayTm - 3000"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="3.Sameer - Paypal - 3000"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="4.Sameer - Paypal - 3500"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="5.Sameer - PayTm - 5000"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="6.Sameer - Visa Checkout - 21000"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="7.Sameer - Paypal - 3440"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="8.Sameer - Paypal - 7000"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="9.Sameer - PayTm - 15000"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="10.Sameer - Visa Checkout - 7500"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="11.Sameer - Paypal - 8000"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:text="12.Sameer - Paypal - 3000"/>
+
+</LinearLayout>
+    </ScrollView>
